@@ -1,7 +1,7 @@
 {
   "MHD088490": {
-    "status": "Warten auf Zahlung",
-    "statusClass": "pending",
+    "status": "Versandvorbereitung",
+    "statusClass": "→ 65% Shiply blue bar",
     "sender": "Victor Dieter, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
     "receiver": "Rene Reinhold, Herderstraße 32, 39317 Elbe-Parey-Güsen, Deutschland",
     "price": "10.800 €",
